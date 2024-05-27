@@ -1,5 +1,12 @@
-## Next.js App Router Course - Starter
+# Aegis
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## About
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Aegis is a wallet for crypto currencies with which you can:
+
+* keep in one central point all your crypto addresses;
+* make transactions;
+* buy and sell crypto;
+* withdraw fiat currencies;
+
+Aegis is a non custodial wallet, it does not keep or store your private keys for you. 
